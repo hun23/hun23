@@ -1,7 +1,8 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HUN%2023&fontSize=140)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=HUN%2023&fontSize=140)
 
 <!--
+2,3,4,5,12,14,18,20,24,26,30
 **hun23/hun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
