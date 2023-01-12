@@ -1,6 +1,11 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=HUN%2023&fontSize=140)
-> https://github.com/kyechan99/capsule-render#custom-color-list
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhun23%2Fhun23&count_bg=%23B42C2C&title_bg=%2341984A&icon=sparkpost.svg&icon_color=%23E5E5E5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
+> 헤더: https://github.com/kyechan99/capsule-render#custom-color-list
+> 
+> HITS: https://hits.seeyoufarm.com/
 <!--
 2,3,4,5,12,14,18,20,24,26,30
 **hun23/hun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
