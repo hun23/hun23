@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=HUN%2023&fontSize=140)
-
+> https://github.com/kyechan99/capsule-render#custom-color-list
 <!--
 2,3,4,5,12,14,18,20,24,26,30
 **hun23/hun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
