@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=H%U%N&fontSize=120)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HUN%2023&fontSize=140)
 
 <!--
 **hun23/hun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
